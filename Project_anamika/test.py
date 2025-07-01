@@ -35,6 +35,11 @@ class StudentData:
 obj1 = ("Shiv",100,1,12,"math","Indore")
 print(obj1)
 
+class A:
+    def fun():
+        print("hello")
+a = A()
+print(a)        
 
 
 
